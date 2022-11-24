@@ -1,6 +1,10 @@
 # rucode_6
 Our top 2 solution to RuCode 6
 
+Private leaderboard  (rucode6-intteam-001)|
+:----------------------------------------:|
+![alt text](private.jpg)                  |
+
 Link to extended dataset: https://www.kaggle.com/datasets/jutrera/stanford-car-dataset-by-classes-folder </br>
 Link to pretrained ResNet50: https://drive.google.com/file/d/1OQuPh40GxujVyFdB3Ycwz_pbKYPmMwxb/view?usp=sharing
 

@@ -9,3 +9,4 @@ madgrad
 albumentations
 torch
 torchvision
+Pillow

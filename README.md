@@ -1,5 +1,5 @@
 # rucode_6
-Our top 2 solution to RuCode 6
+2nd place solution to RuCode 6
 
 Private leaderboard  (rucode6-intteam-001)|
 :----------------------------------------:|
